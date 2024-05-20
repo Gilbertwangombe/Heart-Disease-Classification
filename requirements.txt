@@ -1,0 +1,12 @@
+matplotlib
+scikit-learn
+numpy
+pandas
+requests
+seaborn
+tensorflow
+mlflow
+scikit-plot
+fastapi
+keras
+-e .
