@@ -1,1 +1,7 @@
 hdenv/
+hdenv/
+NOTEBOOK/
+artifacts/
+heart_disese_classification.egg-info/
+logs/
+src/__pycache__/
